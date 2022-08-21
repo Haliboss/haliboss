@@ -1,14 +1,22 @@
-![](https://i.gifer.com/fz6d.gif)
-
 ### Hi there 👋, I'm Halil
 #### I am Full Stack developer
+
+<br/> 
+
+<div align="center">
+<img src="./fz6d.gif" align="left" style="width: 70%" />
+</div>  
+
+<br/> 
 
 - 🔭 I’m currently working on full stack 
 - 🌱 I’m currently learning react 
 - 📫 How to reach me: halibos@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Haliboss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/halil-ibrahim-demircin-497a14214//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='gray'>](https://github.com/Haliboss) <br/> <br/>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/halil-ibrahim-demircin-497a14214//)  
+
+<br/> <br/> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
