@@ -1,14 +1,7 @@
-<div align="center">
-<img src="https://i.gifer.com/fz6d.gif" align="center" style="width: 100%" />
-</div>  
+![](https://i.gifer.com/fz6d.gif)
 
 ### Hi there 👋, I'm Halil
 #### I am Full Stack developer
-
-
-
-
-Skills: REACT / JS / HTML / CSS / PYTHON / DJANGO / MySQL / JIRA
 
 - 🔭 I’m currently working on full stack 
 - 🌱 I’m currently learning react 
@@ -50,16 +43,7 @@ Skills: REACT / JS / HTML / CSS / PYTHON / DJANGO / MySQL / JIRA
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-
-
-
-
-
-
 <br/>  
-
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haliboss)](https://github.com/ryo-ma/github-profile-trophy)
 
