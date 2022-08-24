@@ -16,7 +16,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='gray'>](https://github.com/Haliboss) <br/> <br/>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/halil-ibrahim-demircin-497a14214//)  
 
-<br/> <br/> 
+<br/> <br/> <br/> <br/> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
