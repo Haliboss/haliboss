@@ -50,7 +50,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
-
+<div> </div>
 <br/>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haliboss)](https://github.com/ryo-ma/github-profile-trophy)
