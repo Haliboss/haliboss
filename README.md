@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Halil
+### Hi there 👋, I'm Halil MasterGuru
 #### I am Full Stack developer
 
 <br/> 
